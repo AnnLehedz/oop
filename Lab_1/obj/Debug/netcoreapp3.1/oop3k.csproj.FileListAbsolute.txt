@@ -1,0 +1,14 @@
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k.deps.json
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k.runtimeconfig.json
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k.runtimeconfig.dev.json
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k.dll
+/Users/annalegedz/Projects/oop3k/oop3k/bin/Debug/netcoreapp3.1/oop3k.pdb
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.csproj.AssemblyReference.cache
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.AssemblyInfoInputs.cache
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.AssemblyInfo.cs
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.csproj.CoreCompileInputs.cache
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.dll
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.pdb
+/Users/annalegedz/Projects/oop3k/oop3k/obj/Debug/netcoreapp3.1/oop3k.genruntimeconfig.cache

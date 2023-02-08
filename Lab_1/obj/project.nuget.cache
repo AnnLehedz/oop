@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra/1YBKEVcEeWgR4F84cTZ58qpPPUO+mnRe+1DyJVwSOjaCAEd2d3khIY5s/4qx3N/2VdtY3EyFzQZlzu+7lgg==",
+  "success": true,
+  "projectFilePath": "/Users/annalegedz/Projects/oop3k/oop3k/Lab_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/annalegedz/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/annalegedz/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/annalegedz/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
